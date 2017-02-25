@@ -3,6 +3,7 @@
 ======
 
 *This is not my individual work*
+*Help taken from Google/r-bloggers*
 
 ======
 
